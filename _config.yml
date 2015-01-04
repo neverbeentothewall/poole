@@ -11,7 +11,7 @@ title:            Meredith Smith
 tagline:          The Jekyll Butler
 url:              http://getpoole.com
 paginate:         1
-baseurl:          /poole
+baseurl:          http://neverbeentothewall.github.io/poole/
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo
