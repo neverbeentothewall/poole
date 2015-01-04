@@ -7,7 +7,7 @@ title:            Meredith Smith
 tagline:          My Blog
 url:             
 paginate:         1
-baseurl:          /
+baseurl:          /poole
 author:
   name:           Meredith Smith
   url:            
@@ -18,4 +18,3 @@ version:          1.0.0
 github:
   repo:           https://github.com/poole/poole
 
-baseurl: /poole
